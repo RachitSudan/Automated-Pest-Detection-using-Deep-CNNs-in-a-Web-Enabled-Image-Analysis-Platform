@@ -1,0 +1,1 @@
+# Automated-Pest-Detection-using-Deep-CNNs-in-a-Web-Enabled-Image-Analysis-Platform
